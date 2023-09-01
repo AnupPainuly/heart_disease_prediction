@@ -1,6 +1,6 @@
 # Heart Disease Classification
 
-![Heart Image](heart_image.jpg)
+![Heart Image](/home/darkstar/Pictures/heart-disease-pred.jpg)
 
 ## Overview
 
